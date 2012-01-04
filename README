@@ -1,0 +1,9 @@
+Readme for Palindrome program
+------------------------------
+This program has a function that determines if a given
+string is a palindrome. A palindrome is a word or phrase that is
+spelled exactly the same forwards or backwards, like "pop" or
+"Ah, Satan sees Natasha". This program ignores all
+non-alphanumeric characters and assumes that upper-and lower-case
+characters are identical. The function outputs whether or not
+the string is a palindrome and return a boolean.
